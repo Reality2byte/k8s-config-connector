@@ -13,8 +13,8 @@
 // limitations under the License.
 
 // +tool:fuzz-gen
-// proto.message: google.cloud.bigquery.datatransfer.v1.TransferConfig
-// api.group: bigquerydatatransfer.cnrm.cloud.google.com
+// proto.message: google.cloud.batch.v1.Job
+// api.group: batch.cnrm.cloud.google.com
 
 package batch
 
